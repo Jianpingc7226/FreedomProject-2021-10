@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718200578819",
+    "project_id": "fireedom-project-2021",
+    "storage_bucket": "fireedom-project-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718200578819:android:2beba544b8675f24feff36",
+        "android_client_info": {
+          "package_name": "freedom.project.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718200578819-73nerkjbbfq53n7arm1qe12u2cuf7n6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALMSpqtWCgB8yQZ_8avePDQwHtEICW-TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718200578819-73nerkjbbfq53n7arm1qe12u2cuf7n6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
